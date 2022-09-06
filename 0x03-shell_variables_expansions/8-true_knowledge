@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$(($TRUEVARIABLE+128)) \n"
+echo -e "$(($TRUEVARIABLE+128))"
